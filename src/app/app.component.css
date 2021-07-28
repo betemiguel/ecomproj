@@ -1,0 +1,75 @@
+
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+/* HEADER */
+
+.logo {
+  width: 20%;
+  padding: 0px 20px 0px 20px;
+  display: block;
+}
+
+.header-social {
+  /* display: flex;
+    justify-content: center; */
+     display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.navbar .navbar-nav .nav-link {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  
+}
+
+.sub-menus {
+    display: flex;
+  justify-content: center;
+  padding-left: 355px;
+}
+
+.registo {
+  padding: 0px 0px 0px 5px;
+  color: #4e4e4e;
+}
+.registo:hover {
+  color: rgb(241, 23, 23);
+}
+
+.login {
+  padding: 0px 10px 0px 5px;
+  color: #4e4e4e;
+}
+
+.login:hover {
+  color: rgb(241, 23, 23);
+}
+
+.perfil {
+  padding: 0px 10px 0px 5px;
+  color: #4e4e4e;
+}
+
+.perfil:hover {
+  color: rgb(241, 23, 23);
+}
+
+.logout {
+  padding: 0px 10px 0px 5px;
+  color: #4e4e4e;
+}
+
+.logout:hover {
+  color: rgb(241, 23, 23);
+}
+
+.wishlist {
+  color: #4e4e4e;
+}
+
+.wishlist:hover {
+  color: rgb(241, 23, 23);
+}
+
+
+

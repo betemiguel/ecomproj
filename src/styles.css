@@ -1,1 +1,43 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* FOOTER */
+
+.footer-social-icons {
+    background: #e4e4e4;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px; 
+    height: 170px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 70%;
+    font-weight: bolder;
+  }
+  
+  
+  h4,
+  h6
+  {
+      
+  padding-bottom: 30px;
+  }
+  
+  ._14 {
+      font-size: 1.4em;
+      font-weight: bold;
+  }
+  
+  
+  .social-icon i{
+      color: black;
+      padding: 30px 30px 30px;
+      
+  }
+
+  #texto {
+      text-align: center;
+      margin-left: 450px;
+    margin-right: 450px; 
+  }
